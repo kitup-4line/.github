@@ -12,9 +12,6 @@
 실제 판매 전에 검증하고 개선 방향을 발견하는 서비스입니다.
 
 
-
-<br>
-
 [**서비스 바로가기**](https://kitup-eta.vercel.app/) | [**Frontend**](https://github.com/kitup-4line/kitup-frontend) | [**Backend**](https://github.com/kitup-4line/kitup-backend)
 
 </div>
