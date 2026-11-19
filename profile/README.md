@@ -1,7 +1,7 @@
-# KitUp
-
 <div align="center">
 
+# KitUp
+    
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/00acb040-3d81-43ac-8df9-7279b2ee34b6" />
 
 ### 신메뉴 출시 전, 가능성을 먼저 확인하다.
